@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PlayDemo</string>
+    <string name="load_error">Reload</string>
+
+    <string-array name="tab_names">
+        <item>游戏</item>
+        <item>专题</item>
+        <item>推荐</item>
+        <item>热门</item>
+    </string-array>
+</resources>
